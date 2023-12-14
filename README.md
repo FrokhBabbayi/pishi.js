@@ -1,0 +1,2 @@
+# pishi.js
+pishi
