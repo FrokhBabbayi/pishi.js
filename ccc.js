@@ -7,7 +7,7 @@ function Car(props) {
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<Car color="red"/>);
+root.render(<Car color="reeed"/>);
 
 class Car extends React.Component {
   render() {
