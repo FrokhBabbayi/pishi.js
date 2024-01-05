@@ -19,7 +19,7 @@ class Car extends React.Component {
 export default Blogses;
 
 const Blogs = () => {
-  return <h1>Blog Articles</h1>;
+  return <h2>Blog Articles</h2>;
 };
 
 export default Blogs;
