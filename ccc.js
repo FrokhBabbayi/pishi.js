@@ -3,7 +3,7 @@ const Blogs = () => {
 };
 
 function Car(props) {
-  return <h1>I am a {props.colouoor} Car!</h1>;
+  return <h2>I am a {props.colouoor} Car!</h2>;
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
