@@ -6,7 +6,7 @@ function Car(props) {
   return <h2>I am a {prop.cr} Car!</h2>;
 }
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('rot'));
 root.render(<Car color="reeed"/>);
 
 class Car extends React.Component {
