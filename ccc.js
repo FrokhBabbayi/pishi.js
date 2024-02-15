@@ -1,5 +1,5 @@
 const Blogs = () => {
-  return <h1>Blog Artil</h1>;
+  return <h1>Blog Artil</1>;
 };
 
 function Car(props) {
