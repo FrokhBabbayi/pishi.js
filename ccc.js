@@ -2,7 +2,7 @@ const Blogs = () => {
   return <h1>Blg rtil</1>;
 };
 
-function Car(props) {
+function Car(prps) {
   return <h2>I am a {pwr} Ca!</h2>;
 }
 
