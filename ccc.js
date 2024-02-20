@@ -1,4 +1,4 @@
-const Blogs = () => {
+con Blogs = () => {
   return <h1>Blg rtil</1>;
 };
 
