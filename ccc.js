@@ -1,4 +1,4 @@
-con Blogs = () => {
+con logs = () => {
   return <h1>Blg rtil</1>;
 };
 
