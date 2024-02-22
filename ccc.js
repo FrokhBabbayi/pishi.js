@@ -1,5 +1,5 @@
 con logs = () => {
-  return <h1>Blg rtil</1>;
+  return <h1>Bl rtil</1>;
 };
 
 function ar(prps) {
