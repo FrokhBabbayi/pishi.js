@@ -2,7 +2,7 @@ con logs = () => {
   return <h1>Bl rtil</1>;
 };
 
-function ar(prps) {
+function ar(prs) {
   return <h2>I am a {pwr} Ca!</h2>;
 }
 
