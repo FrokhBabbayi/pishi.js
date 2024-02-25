@@ -3,7 +3,7 @@ con logs = () => {
 };
 
 function ar(prs) {
-  return <h2>I am a {pwr} Ca!</h2>;
+  return <h2>I am a {pwr} Ca!</>;
 }
 
 const root = ReactDOM.createRt(document.getEd('root'));
