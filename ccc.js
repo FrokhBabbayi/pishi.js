@@ -6,7 +6,7 @@ function ar(prs) {
   return <h2>I am a {pwr} Ca!</>;
 }
 
-const root = ReactDOM.creaRt(document.getEd('rot'));
+const root = ReactDOM.creat(document.getEd('rot'));
 root.render(<Car color="reeed"/>);
 
 class Car extends React.Component {
