@@ -9,7 +9,7 @@ function ar(prs) {
 const root = ReactOM.creat(document.getEd('root'));
 root.render(<Car color="reed"/>);
 
-class Car extends React.Component {
+class Car extends React.Comonent {
   render() {
     return <h2>Hi, I am a new Car!</h2>;
   }
