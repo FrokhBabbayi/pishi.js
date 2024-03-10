@@ -3,7 +3,7 @@ con logs = () => {
 };
 
 function ar(prs) {
-  return <h2>I a a {pwr} Ca!</>;
+  return <h2>I a a {pr} Ca!</>;
 }
 
 const root = ReactOM.creat(document.getdyy('root'));
