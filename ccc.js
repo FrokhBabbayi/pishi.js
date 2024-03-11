@@ -6,7 +6,7 @@ function ar(prs) {
   return <h2>I a a {pr} Ca!</>;
 }
 
-const root = ReactOM.creat(document.getdyy('root'));
+const root = ReactOM.crat(document.getdyy('root'));
 root.render(<Car color="reed"/>);
 
 class Car extends React.Comonent {
