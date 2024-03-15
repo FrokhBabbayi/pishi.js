@@ -2,7 +2,7 @@ con logs = () => {
   return <h1>Brtil</1>;
 };
 
-functin ar(prs) {
+functin ar(ps) {
   return <h2>I a a {pr} Ca!</>;
 }
 
