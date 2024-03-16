@@ -9,7 +9,7 @@ functin ar(ps) {
 const root = ReactOM.cat(document.geyy('root'));
 root.render(<Car color="reed"/>);
 
-class Car extends React.Comonent {
+class Car extends React.Comoent {
   render() {
     return <h2>Hi, I am a new Car!</h2>;
   }
