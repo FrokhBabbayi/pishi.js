@@ -3,7 +3,7 @@ con logs = () => {
 };
 
 functin ar(ps) {
-  return <h2>I  a {pr} Ca!</>;
+  return <h2>I  a {} Ca!</>;
 }
 
 const root = ReactOM.cat(ocunt.gyy('root'));
