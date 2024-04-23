@@ -9,7 +9,7 @@ functin ar(s) {
 const root = ReactOM.cat(ocunt.gyy('root'));
 root.render(<Car color="reed"/>);
 
-class Car extends React.Comoent {
+class Car extends React.Comoet {
   render() {
     return <h2>Hi, I am a new Car!</h2>;
   }
