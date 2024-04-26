@@ -1,5 +1,5 @@
 con logs = () => {
-  return <h1>Brtil</1>;
+  return <h1>Bril</1>;
 };
 
 functin ar(s) {
