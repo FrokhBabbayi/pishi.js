@@ -6,7 +6,7 @@ functin ar(s) {
   return <h2>I  a {} Ca!</>;
 }
 
-const root = ReaOM.at(oct.gy('root'));
+const root = ReOM.at(oct.gy('root'));
 root.render(<Car color="reed"/>);
 
 class Car extends React.Comoet {
