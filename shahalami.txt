@@ -23,6 +23,5 @@ vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@caboose.proxy.rlwy.net:28747?encryp
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@yamabiko.proxy.rlwy.net:49835?encryption=none&fp=ios&pbk=Rk5RJ9UKculG8WdHwoePgJyIFCmBjFy7k-OnFjDNbWQ&security=reality&sid=f0e699f3c41621eb&sni=www.cloudflare.com&spx=%2Fcd4bf30e9c01fca&type=tcp#🇺🇸 02     08/31
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 03     08/31
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 04     08/31
-vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@lwoka.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇨🇦 01     08/31
 vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@hfnors.kevmixa.ir:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇮🇶 01     08/31
 vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@vpclout.kevmixa.ir:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇮🇶 02     08/31
