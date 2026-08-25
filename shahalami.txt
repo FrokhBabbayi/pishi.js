@@ -40,9 +40,7 @@ vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@94.140.0.255:8443?encryption=none&s
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@188.114.97.6:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇺🇸 07     08/31
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@b2n.ir:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇺🇸 08     08/31
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@103.31.4.234:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇺🇸 09     08/31
-vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@caboose.proxy.rlwy.net:28747?encryption=none&fp=ios&pbk=-E0JIrc683-6xP83KCiivHpnUqFUKKyJ_gPn-goDSQs&security=reality&sid=20&sni=blog.api.www.cloudflare.com&spx=%2Ff7f4e32fccf1c7c&type=tcp#🇺🇸 10     08/31
-vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@yamabiko.proxy.rlwy.net:49835?encryption=none&fp=ios&pbk=Rk5RJ9UKculG8WdHwoePgJyIFCmBjFy7k-OnFjDNbWQ&security=reality&sid=f0e699f3c41621eb&sni=www.cloudflare.com&spx=%2Fcd4bf30e9c01fca&type=tcp#🇺🇸 11     08/31
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 12     08/31
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 13     08/31
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 10     08/31
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 11     08/31
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@0c96bd7003f3b5fc.sgforalm.kevmixa.ir:53966?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=%2F#🇸🇬 01     08/31
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@4d6e1ffc2f28ca5f.sgforalm.kevmixa.ir:46312?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&sid=0c1fd5602216f902&type=tcp&headerType=none#🇸🇬 02     08/31
