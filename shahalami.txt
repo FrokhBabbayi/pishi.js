@@ -14,12 +14,7 @@ vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@chatgpt.com:2086?encryption=none&ty
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@panel.cutizeh.ir:3030?encryption=none&security=tls&alpn=h2,http/1.1&fp=chrome&packetEncoding=xudp#🇹🇷 04     08/31
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@66.33.22.225:15451?encryption=none&security=reality&sni=www.cloudflare.com&fp=ios&pbk=pJhBKhroNZ9ECiIa5tWA0WZ0OYAokQ8Ps_t-j2OJokQ&sid=f06f62&spx=%2Fd83a6f27a3968bf&type=tcp&headerType=none#🇳🇱 01     08/31
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@66.33.22.225:42624?encryption=none&security=reality&sni=www.cloudflare.com&fp=ios&pbk=cJWgAPvc2QlD3BXyk4g5T3IRsLjrYQ7P6QcwfOpNLko&sid=80&spx=%2F86b8ba760c4db52&type=tcp&headerType=none#🇳🇱 02     08/31
-vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@kdeks.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇳🇱 03     08/31
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 01     08/31
 ss://YWVzLTEyOC1nY206b1IwR2htVkRxR0JoVlZ3Mmo4a1IyZw@dkslaw.restaurantbomb.com:8389?#🇫🇷 01     08/31
-vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@lajdka.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇪🇸 01     08/31
-vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@dnsalcp.kevmixa.ir:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇦🇱 01     08/31
-vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@kivyso.kevmixa.ir:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇺🇦 01     08/31
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@us.rayanwebhost.website:55522?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=9pKJ-2XGLS4Yc0N-TonnoLF7SaNPhb3GBeOgfyI76H0&sid=b68c60d6016117b1&packetEncoding=xudp#🇺🇸 01     08/31
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@us.rayanwebhost.website:1130?encryption=none&type=xhttp&security=reality&sni=icloud.com&fp=edge&pbk=DShIJLsif34VGoDx_ouZNRRlyOHcK0jVPNv3rnTkkCk&sid=f5dd1cd1d49c32db&host=play.google.com&path=/store/apps?hl%3Den&mode=auto#🇺🇸 02     08/31
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@104.16.22.28:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇺🇸 03     08/31
@@ -33,5 +28,3 @@ vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@caboose.proxy.rlwy.net:28747?encryp
 vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@yamabiko.proxy.rlwy.net:49835?encryption=none&fp=ios&pbk=Rk5RJ9UKculG8WdHwoePgJyIFCmBjFy7k-OnFjDNbWQ&security=reality&sid=f0e699f3c41621eb&sni=www.cloudflare.com&spx=%2Fcd4bf30e9c01fca&type=tcp#🇺🇸 11     08/31
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 12     08/31
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 13     08/31
-vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@hfnors.kevmixa.ir:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇮🇶 01     08/31
-vless://abdeba41-51b3-49f0-99b8-e8c6a7ffb036@vpclout.kevmixa.ir:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇮🇶 02     08/31
