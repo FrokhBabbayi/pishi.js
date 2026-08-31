@@ -21,6 +21,7 @@ trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&fm=%7B%0A%
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@782bfa7cb861a0ab.f65vu.kevmixa.ir:53966?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇫🇷 02     08/31 تمدید؟
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@95b79fe93d5ee98c.tflm7.kevmixa.ir:53966?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇫🇮 01     08/31 تمدید؟
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@d572f89158b975be.tflm7.kevmixa.ir:46312?security=reality&encryption=none&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0c1fd5602216f902#🇫🇮 02     08/31 تمدید؟
+vless://9f726d4e-9bac-4aee-b55b-3b272cb67c67@panel.cutizeh.ir:3030?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇫🇮 03     08/31 تمدید؟
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@2b293d7b7e2fe013.ub89.kevmixa.ir:53966?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=%2F#🇬🇧 01     08/31 تمدید؟
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@b06d4631f8b864ed.ub89.kevmixa.ir:53966?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇬🇧 02     08/31 تمدید؟
 vless://4dcde72b-e7f7-42aa-87b0-0b260450c191@708697ac389529b0.mil6ga.kevmixa.ir:53966?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇮🇹 01     08/31 تمدید؟
